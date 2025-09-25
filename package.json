@@ -1,0 +1,23 @@
+{
+  "name": "analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time analytics dashboard with Vue.js and D3.js",
+  "author": "Ravindra Singh Nagarkoti",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "d3": "^7.8.5",
+    "socket.io-client": "^4.7.2",
+    "axios": "^1.5.0",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
+}
+
