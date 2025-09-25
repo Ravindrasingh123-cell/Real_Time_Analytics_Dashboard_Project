@@ -4,6 +4,12 @@
 
 A modern, interactive analytics dashboard built with Vue.js, D3.js, and Python Flask. Features real-time data streaming, interactive charts, and responsive design.
 
+## Dashboard Preview
+
+![Analytics Dashboard Screenshot](dashboard-screenshot.png)
+
+*Real-time analytics dashboard with live data streaming and interactive visualizations*
+
 ## Features
 
 - 📊 **Real-time Data Streaming**: Live updates using WebSockets
